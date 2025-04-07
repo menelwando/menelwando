@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menelwando
-- 👀 I’m interested in Python, Javascript, Azure, AWS and Google Cloud
+- 👀 I’m interested in Python, Java, Azure and AWS 
 - 🌱 I’m currently learning Python and Microsoft Azure's AZ-400
 - 💞️ I’m looking to collaborate on projects that are related to the above to enhance my skills
 - 📫 How to reach me is through my LinkedIn(Lwando Mene) 
